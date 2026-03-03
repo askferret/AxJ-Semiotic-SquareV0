@@ -38,7 +38,7 @@ export function NavBar({ theme, onThemeToggle, onSampleMode, isSampleLoading }: 
           Semiotic Square <span className="text-primary font-bold">— Source Mapping</span>
         </span>
         <span className="hidden sm:inline-block rounded bg-primary/10 px-1.5 py-0.5 text-[10px] font-medium text-primary uppercase tracking-wide">
-          Find sources in between
+          
         </span>
       </div>
 
